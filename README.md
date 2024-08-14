@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>VPNLABS - VPN实验室</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/styles/default.min.css" type="text/css">
 </head>
 <body>
