@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>HTML Editor - LDDGO.NET</title>
+<title>VPNLABS - VPN实验室</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/styles/default.min.css" type="text/css">
 </head>
 <body>
@@ -32,7 +32,5 @@
 </tbody>
 </table>
 
-<script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.5.1/build/highlight.min.js" type="text/javascript"></script>
-<script type="text/javascript">hljs.highlightAll();</script>
 </body>
 </html>
